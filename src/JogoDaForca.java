@@ -1,5 +1,6 @@
 import java.util.*;
 
+// Teste
 public class JogoDaForca {
 
     static ArrayList lista = new ArrayList<String>();
