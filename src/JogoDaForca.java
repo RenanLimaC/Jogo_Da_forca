@@ -1,5 +1,6 @@
 import java.util.*;
 
+// PARABAENS NOTA 1000
 public class JogoDaForca {
 
     static ArrayList lista = new ArrayList<String>();
